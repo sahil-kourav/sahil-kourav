@@ -1,13 +1,9 @@
-<h1 align="center">👋 Hey there! I'm Sahil Kourav</h1>
-
-<h3 align="center">🚀 Full-Stack MERN Developer | Passionate Problem Solver | Curious About AI & Web3</h3>
-
----
+<h3>👋 Hey I'm Sahil Kourav</h1>
 
 ### 💡 About Me  
 - 💻 A **Full Stack Developer (MERN)** who loves building **real-world, scalable applications**  
 - 🤖 Currently exploring **AI integration** and **Web3 technologies**  
-- ⚙️ Skilled in **React, Node.js, Express, MongoDB, SQL, REST APIs, Git & GitHub**  
+- ⚙️ Skilled in **React, Node.js, Express, MongoDB, Mysql, REST APIs, Git & GitHub**  
 - 🤝 Open to collaborating on **impactful projects, open-source work, and innovative ideas**  
 - 🌱 Always learning and pushing boundaries to master the craft of modern web development  
 
@@ -59,9 +55,7 @@
 
 ### 📫 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sahilkourav?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- 💻 [GitHub](https://github.com/sahil-kourav)  
-- 📧 Email: *youremail@example.com*  
-
+- 💻 [GitHub](https://github.com/sahil-kourav) 
 ---
 
 ### ⚡ Fun Fact  
