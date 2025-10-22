@@ -43,14 +43,13 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahil-kourav&show_icons=true&theme=react&hide_border=true" alt="Sahil's GitHub stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahil-kourav&show_icons=true&theme=react&hide_border=true&count_private=true&cache_seconds=1800" alt="Sahil's GitHub stats" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-kourav&theme=react&hide_border=true" alt="GitHub streak stats" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-kourav&layout=compact&theme=react&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-kourav&layout=compact&theme=react&hide_border=true&cache_seconds=1800" alt="Top Languages" width="60%" />
 </p>
-
 ---
 
 ### 📫 Connect With Me  
