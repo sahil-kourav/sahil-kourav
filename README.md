@@ -1,10 +1,9 @@
-<h3>👋 Hey I'm Sahil Kourav</h1>
+<h2>👋 Hey I'm Sahil Kourav</h2>
 
 ### 💡 About Me  
 - 💻 A **Full Stack Developer (MERN)** who loves building **real-world, scalable applications**  
 - 🤖 Currently exploring **AI integration** and **Web3 technologies**  
 - ⚙️ Skilled in **React, Node.js, Express, MongoDB, Mysql, REST APIs, Git & GitHub**  
-- 🤝 Open to collaborating on **impactful projects, open-source work, and innovative ideas**  
 - 🌱 Always learning and pushing boundaries to master the craft of modern web development  
 
 ---
