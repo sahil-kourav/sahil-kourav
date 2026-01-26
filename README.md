@@ -1,35 +1,62 @@
-<h2>👋 Hi, I’m Sahil Kourav</h2>
+<h1 align="center">Sahil Kourav</h1>
 
-### 💻 About Me
-I’m a **backend-focused MERN stack developer** with hands-on experience building **scalable, maintainable backend systems** using **Node.js, Express.js, MongoDB, and REST APIs**.
+<p align="center">
+  <b>Backend-Focused MERN Developer</b><br/>
+  Node.js · REST APIs · MongoDB · Express.js
+</p>
 
-I enjoy working on the server side—designing APIs, handling databases, and building backend logic that supports real-world applications. I learn best by solving practical problems and continuously improving code quality.
-
----
-
-### 🛠 Tech Stack
-- **Backend:** Node.js, Express.js, REST APIs
-- **Database:** MongoDB, SQL
-- **Frontend (Working Knowledge):** React
-- **Tools:** Git, GitHub, Postman
-- **Concepts:** API design, authentication, database modeling
+<p align="center">
+  Building reliable backend systems for real-world applications.
+</p>
 
 ---
 
-### 🌱 Currently Working On
-- Strengthening **backend fundamentals**
-- Building **real-world backend projects**
-- Learning **DevOps basics** (Docker, deployment concepts)
-- Exploring how backend systems scale in production
+## 👋 About
+Backend-focused MERN stack developer currently working with **Node.js, Express.js, MongoDB, and REST APIs**.  
+I focus on building **clean, scalable, and maintainable backend systems** that support real users and products.
 
 ---
 
-### 🤝 Open To
-- Backend-focused roles (Junior / Entry-level)
-- Collaborating on real-world projects
-- Learning from experienced developers and teams
+## 🧠 What I Do
+- Build and maintain RESTful APIs  
+- Design and work with MongoDB databases  
+- Write clean and maintainable backend code  
+- Collaborate with frontend teams  
+- Debug and improve backend performance  
 
 ---
 
-### 📫 Let’s Connect
-Feel free to explore my repositories or reach out if you’d like to collaborate or discuss backend development.
+## ⚙️ Core Skills
+Backend Development ████████████████
+REST API Design ██████████████░░
+MongoDB & Data Modeling █████████████░░░
+Express.js ██████████████░░
+Problem Solving ███████████████░
+
+
+---
+
+## 🧰 Tech Stack
+**Backend:** Node.js, Express.js, REST APIs  
+**Database:** MongoDB, SQL  
+**Frontend:** React (working knowledge)  
+**Tools:** Git, GitHub, Postman  
+
+---
+
+## 🚀 Currently Focused On
+- Production-style backend projects  
+- API design and database fundamentals  
+- DevOps basics (Docker, deployment)  
+
+---
+
+## 🎯 Open To
+- Junior / Entry-Level Backend Developer roles  
+- Backend-focused MERN projects  
+- Learning and collaboration  
+
+---
+
+## 📬 Let’s Connect
+Feel free to explore my repositories or reach out to connect.
