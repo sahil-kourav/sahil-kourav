@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:1A1A40&height=220&section=header&text=Sahil%20Kourav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Node.js%20%C2%B7%20Express.js%20%C2%B7%20MongoDB&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=250&section=header&text=Sahil%20Kourav&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%C2%B7%20Node.js%20%C2%B7%20AI%20Integrations&descAlignY=58&descSize=20&stroke=2F81F7&strokeWidth=1" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Node.js+%26+Express.js;Building+Scalable+APIs+%26+Microservices;Exploring+Generative+AI+with+Gemini+%26+OpenRouter;Open+to+Remote+Roles+%26+Freelance+Work" />
@@ -18,7 +18,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,docker,aws,react,js,git,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,docker,aws,react,js,git,postman&theme=dark&perline=10" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
 ### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/sahil-kourav/evercart">
+  <a href="[https://github.com/sahil-kourav/evercart_marketplace.git]">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahil-kourav&repo=evercart&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/sahil-kourav/upskale-ai">
@@ -56,4 +56,4 @@
   <img alt="snake animation" src="https://raw.githubusercontent.com/sahil-kourav/sahil-kourav/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A40,100:2F81F7&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=150&section=footer&animation=twinkling" width="100%"/>
