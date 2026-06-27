@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="[https://github.com/sahil-kourav/evercart_marketplace.git]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahil-kourav&repo=evercart&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahil-kourav&repo=evercart_marketplace&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/sahil-kourav/upskale-ai">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahil-kourav&repo=upskale-ai&theme=tokyonight&hide_border=true" />
