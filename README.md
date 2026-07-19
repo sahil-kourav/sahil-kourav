@@ -5,8 +5,8 @@
   1. Replace "sahil-kourav" everywhere with YOUR GitHub username.
   2. Replace "sahilkourav02@gmail.com" with YOUR email.
   3. Replace "sahilkourav" (LinkedIn) with YOUR LinkedIn username.
-  6. Replace "your-twitter" with your Twitter/X username.
-  9. Replace repo names "evercart_marketplace" and "upskale-ai"
+  4. Replace "sahilkourav_" (Twitter/X) with your real handle.
+  5. Replace repo names "evercart_marketplace" and "upskale-ai"
      with your real repository names.
   =========================================================
 -->
@@ -29,14 +29,11 @@
 <a href="mailto:sahilkourav02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://twitter.com/sahilkourav_"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&width=1000" width="100%"/>
 
 </div>
-
-<br/>
-
-<br/>
-
----
 
 <br/>
 
@@ -66,33 +63,35 @@ Production-Grade Projects
 <td align="center" width="30%">
 
 **3**
-Core Stacks — Backend Development, Cloud Deployment, Genrative AI
+Core Stacks — Backend Development, Cloud Deployment, Generative AI
 
 </td>
 </tr>
 </table>
 
-<br/>
-
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&width=1000" width="100%"/>
+</div>
 
 <br/>
 
 ## 🧑‍💻 About Me
 
-<p align="center">I'm a <b>backend engineer</b> who enjoys turning messy, real-world problems into clean, dependable systems.</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=8E9AAF&center=true&vCenter=true&width=800&lines=I+turn+messy%2C+real-world+problems+into+clean%2C+dependable+systems." align="center"/>
+
+<br/>
 
 <table align="center">
-<tr ><td align="center" width="8%">🏗️</td><td>I design APIs and services that stay stable as traffic grows</td></tr>
+<tr><td align="center" width="8%">🏗️</td><td>I design APIs and services that stay stable as traffic grows</td></tr>
 <tr><td align="center">🧩</td><td>I care about clean architecture more than clever tricks</td></tr>
 <tr><td align="center">🔗</td><td>I break big systems into small, independent microservices</td></tr>
 <tr><td align="center">🤖</td><td>I build products that use AI as a real feature, not a gimmick</td></tr>
 <tr><td align="center">☁️</td><td>I'm leveling up on cloud infrastructure and deployment</td></tr>
 </table>
 
-<br/>
-
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&width=1000" width="100%"/>
+</div>
 
 <br/>
 
@@ -122,9 +121,9 @@ Core Stacks — Backend Development, Cloud Deployment, Genrative AI
 <tr><td align="center"><img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" /></td></tr>
 </table>
 
-<br/>
-
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&width=1000" width="100%"/>
+</div>
 
 <br/>
 
@@ -182,32 +181,25 @@ An AI-driven platform that reviews resumes against real job listings and runs re
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 </p>
 
-
 </td>
 </tr>
 </table>
 
-<br/>
-
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&width=1000" width="100%"/>
+</div>
 
 <br/>
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sahil-kourav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=151B23" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-kourav&layout=compact&theme=tokyonight&hide_border=true&bg_color=151B23" width="38%" />
-</p>
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=sahil-kourav&theme=tokyonight&hide_border=true&background=151B23" width="65%" />
 </p>
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahil-kourav&theme=tokyo-night&hide_border=true&bg_color=151B23" width="100%" />
 </p>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sahil-kourav&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
-</p>
+
 <h3 align="center">🐍 Contribution Snake</h3>
 <p align="center">
 <picture>
@@ -215,9 +207,10 @@ An AI-driven platform that reviews resumes against real job listings and runs re
   <img alt="snake animation" src="https://raw.githubusercontent.com/sahil-kourav/sahil-kourav/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 </p>
-<br/>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&width=1000" width="100%"/>
+</div>
 
 <br/>
 
@@ -225,13 +218,13 @@ An AI-driven platform that reviews resumes against real job listings and runs re
 
 ```
 2026 ── Building AI-native backend systems (LangChain & LangGraph + LLM)
-2025 ── Deep-dived into Node.js, Microservices, Docker, Aws, Ci/Cd Piplines and system design
-2024 ── Started backend development with JavaScript, Node.js, Express.js and MongoDB 
+2025 ── Deep-dived into Node.js, Microservices, Docker, AWS, CI/CD pipelines and system design
+2024 ── Started backend development with JavaScript, Node.js, Express.js and MongoDB
 ```
 
-<br/>
-
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&width=1000" width="100%"/>
+</div>
 
 <br/>
 
@@ -243,6 +236,7 @@ An AI-driven platform that reviews resumes against real job listings and runs re
 <img src="https://img.shields.io/badge/Freelance-Work-2F81F7?style=for-the-badge&labelColor=0F0C29"/>
 <img src="https://img.shields.io/badge/Hackathon-Participant-2F81F7?style=for-the-badge&labelColor=0F0C29"/>
 </p>
+
 <br/>
 
 ## 📚 Currently Learning
@@ -271,6 +265,7 @@ An AI-driven platform that reviews resumes against real job listings and runs re
 <td colspan="2" align="center">🧱 High-scale system design</td>
 </tr>
 </table>
+
 <br/>
 
 ## ✅ 2026 Goals
@@ -279,9 +274,10 @@ An AI-driven platform that reviews resumes against real job listings and runs re
 - [x] Launch UpSkale AI
 - [ ] Earn AWS Certification
 - [ ] Land a backend engineering role
-<br/>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&width=1000" width="100%"/>
+</div>
 
 <br/>
 
@@ -295,16 +291,13 @@ An AI-driven platform that reviews resumes against real job listings and runs re
 
 <br/>
 
----
-
-<br/>
-
 <div align="center">
 
 ## 🤝 Let's Connect
 
-I'm open to backend engineering and AI-integration roles — remote or on-site.
-Reach out, I usually reply within a day.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=8E9AAF&center=true&vCenter=true&width=700&lines=Open+to+backend+engineering+%26+AI-integration+roles;Remote+or+on-site+%E2%80%94+I+usually+reply+within+a+day" />
+
+<br/><br/>
 
 <a href="https://linkedin.com/in/sahilkourav"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sahilkourav02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
